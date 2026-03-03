@@ -2,9 +2,8 @@
 
 ## Purpose
 
-This repository exists to house **confidential files**. All access, changes, and
-contributions are continuously monitored. Unauthorized disclosure of any content is
-strictly prohibited.
+This repository is designed to be secure. All access, changes, and
+contributions are continuously monitored.
 
 ## Supported Versions
 
@@ -19,12 +18,10 @@ Only the `main` branch is maintained and monitored.
 
 If you discover a security vulnerability in this repository:
 
-1. **Do not** open a public GitHub Issue.
-2. Email the repository owner directly with the subject line
-   `[SECURITY] Vulnerability Report — secure-repository`.
-3. Include a full description of the vulnerability, steps to reproduce, and potential
+1. Open a public GitHub Issue.
+2. Include a full description of the vulnerability, steps to reproduce, and potential
    impact.
-4. You will receive a response within **48 hours**.
+3. You will receive a response within **48 hours**.
 
 ## Security Controls in Place
 
