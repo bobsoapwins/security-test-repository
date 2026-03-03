@@ -1,4 +1,4 @@
-# Test Repository
+# Security Test Repository
 
 Hello and welcome to my test repository! This is where I experiment with various Github security features such as security checks, audit logs etc. See below for more details. You can fork this repo to experiment with to your liking
 
