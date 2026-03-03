@@ -8,7 +8,7 @@ or via the GitHub REST API / GitHub CLI.
 
 ---
 
-## Ruleset 1 — Main Branch Protection (Required)
+## Ruleset 1 — Main Branch Protection
 
 **Name:** `main-branch-protection`  
 **Enforcement:** `Active`  
