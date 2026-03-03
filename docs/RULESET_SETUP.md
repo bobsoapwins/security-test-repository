@@ -113,6 +113,21 @@ The following secrets must be configured in **Settings → Secrets and variables
 | `ACCESS_ALERT_WEBHOOK_URL` | Webhook for collaborator/deploy-key change alerts | Optional |
 | `GITLEAKS_LICENSE` | Gitleaks Enterprise license key (for secret scanning) | Optional |
 
+### Secret Rotation and Audit
+
+All secrets and service tokens must be periodically rotated and audited:
+
+- **`GITLEAKS_LICENSE`** — Rotate this license key at least every 90 days or immediately
+  after any suspected exposure. Revoke the old key in the Gitleaks portal after updating
+  the repository secret.
+- **`LOCKDOWN_WEBHOOK_URL`** / **`ACCESS_ALERT_WEBHOOK_URL`** — Regenerate webhook tokens
+  in your Slack/Teams workspace and update the repository secrets whenever team membership
+  changes or a token may have been exposed.
+- **Deploy Keys** — Navigate to **Settings → Deploy keys** and revoke any keys that are
+  no longer in active use. Review the list at least quarterly.
+- **After any suspected breach** — Immediately rotate all of the above and trigger the
+  Repository Lockdown workflow (see [SECURITY.md](../SECURITY.md)).
+
 ---
 
 ## Additional Recommended Settings
