@@ -21,17 +21,6 @@ Hello and welcome to my test repository! This is where I experiment with various
 
 ---
 
-## Repository Lockdown
-
-In the event of a suspected breach:
-
-1. Go to **Actions → Repository Lockdown → Run workflow**
-2. Enter the reason for the lockdown
-3. An incident issue will be created, the event will be logged, and an alert will be
-   sent via webhook (if `LOCKDOWN_WEBHOOK_URL` is configured)
-
----
-
 ## Workflows
 
 | Workflow | Trigger | Purpose |
