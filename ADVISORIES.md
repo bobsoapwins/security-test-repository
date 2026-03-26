@@ -6,7 +6,7 @@ This document is designed to provide information on how to report security vulne
 
 ## A Quick Note
 
-Advisory reporting is confidential and can only be viewed by repository maintainers or administrators. The repository administrators or maintainers will open a public Github issue in this repository if it has been approved by a maintainer, administrator, etc. No information is shared with 3rd parties or the public unless it is included in a public Github issue. You can request that certain information not be shared in the advisory description in a section seperate from the advsiory description (seperate section not provided, you will have to write it in yourself).
+Advisory reporting is confidential and can only be viewed by repository maintainers or administrators. The repository administrators or maintainers will open a public Github issue in this repository if it has been approved by a maintainer, administrator, etc. No information is shared with 3rd parties or the public unless it is included in a public Github issue. You can request that certain information not be shared in the advisory description in a section seperate from the advsiory description but still included in the advisory details text field (seperate section not provided, you will have to write it in yourself).
 
 ## Accessing the Vulnerability System
 
