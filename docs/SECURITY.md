@@ -19,7 +19,7 @@ Only the `main` branch is maintained and monitored.
 If you discover a security vulnerability in this repository:
 
 1. Go to [https://github.com/bobsoapwins/security-test-repository/security/advisories/new](https://github.com/bobsoapwins/security-test-repository/security/advisories/new)
-2. Fill out the provided fields with the best knowledge you have of the incident (for more info see ADVISORIES.md)
+2. Fill out the provided fields with the best knowledge you have of the incident (for more info see [ADVISORIES.md](https://github.com/bobsoapwins/security-template/blob/main/docs/ADVISORIES.md))
 3. You will receive a response within **48 hours**.
 
 ## Security Controls in Place
