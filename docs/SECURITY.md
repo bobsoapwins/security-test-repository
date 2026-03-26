@@ -14,13 +14,29 @@ contributions are continuously monitored.
 
 Only the `main` branch is maintained and monitored.
 
-## Reporting a Vulnerability
+## Reporting a Security Issue
 
-If you discover a security vulnerability in this repository:
+If you discover a security vulnerability in this repository, you have 2 options. You can either create a public Github issue in this repository, or you can submit a confidential vulnerability report.
+
+<details><summary>Submitting a public issue</summary>
+<p>
+
+1. Go to [https://github.com/bobsoapwins/security-template/issues](https://github.com/bobsoapwins/security-template/issues)
+2. Fill out the provided fields with the best knowledge you have of the incident
+
+</p>
+</details> 
+
+<details><summary>Submitting a confidential advisory</summary>
+<p>
 
 1. Go to [https://github.com/bobsoapwins/security-test-repository/security/advisories/new](https://github.com/bobsoapwins/security-test-repository/security/advisories/new)
 2. Fill out the provided fields with the best knowledge you have of the incident (for more info see [ADVISORIES.md](https://github.com/bobsoapwins/security-template/blob/main/docs/ADVISORIES.md))
 3. You will receive a response within **48 hours**.
+
+</p>
+</details> 
+
 
 ## Security Controls in Place
 
