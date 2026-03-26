@@ -15,7 +15,9 @@ Advisory reporting is confidential and can only be viewed by repository maintain
 3. Select `Report a Vulnerability`
 4. Fill out the provided fields (fill the fields with the information provided below)
 
-## Advisory Details
+## Filling in the Advisory Details Page
+
+This section will explain how to incorporate your data into the `Advisory Details` page.
 
 ### Title
 
