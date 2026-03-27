@@ -80,4 +80,4 @@ In this text box you can input a Common Weakness Enumeration (CWE) value. You ca
 In this field, write the names, emails, usernames, etc. of people who contributed to this advisory.
 
 When you are finished, select the green `Create Draft Security Advisory` button
-**Remember, this advisory is not going to be introduced to the public unless it is deemed fit to do so**
+**Remember, this advisory is not going to be introduced to the public unless it is deemed fit to do so. Details you request not to be shared are not shared with the public unless they are vital to the security vulnerability.**
